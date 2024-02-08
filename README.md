@@ -60,7 +60,7 @@ For more information about the data, see the Github repo: [Sprakbanken/nb_uttale
 
 The data was split into test and train subsets with
 
-### Transcription standard
+### Transcription standard (må oppdateres)
 Although the original NST lexicon uses X-SAMPA as a transcription standard, an equivalent standard is used in this project., which is easier to read by humans, *NoFAbet*. NoFAbet is in part based on [2-letter ARPAbet](https://en.wikipedia.org/wiki/ARPABET) and is made by [Nate Young](https://www.nateyoung.se/) for the National Library of Norway in connection with the development of [*NoFA*](https://www.nb.no/sprakbanken/en/resource-catalogue/oai-nb-no-sbr-59/), a forced aligner for Norwegian. The equivalence table below contains X-SAMPA, IPA and NoFAbet notatations.
 
 ### X-SAMPA-NoFAbet equivalence table
@@ -124,9 +124,9 @@ w | w | W | **W**ashington
 Y | y | YH0 | n**y**tt
 y: | yː | YY0 | n**y**
 
-Unstressed syllables are marked with a 0 after the vowel or consonant syllable nucleus. The nucleus is marked with a *1* for tone 1 and a *2* for tone 2. Secondary stress is marked with *3*. In the material without tone and stress marking, all *3*s are replaced by zeros and all *2*s with *1*s. (sjekk)
+Unstressed syllables are marked with a 0 after the vowel or consonant syllable nucleus. The nucleus is marked with a *1* for tone 1 and a *2* for tone 2. Secondary stress is marked with *3*. In the material without tone and stress marking, all *3*s are replaced by zeros and all *2*s with *1*s.
 
-For compatibility with NoFA, retroflex *s* is rendered as *SJ* instead of *RS*, which means that there is no distinction between postalveolar and retroflex *s* in the transcriptions. (sjekk)
+For compatibility with NoFA, retroflex *s* is rendered as *SJ* instead of *RS*, which means that there is no distinction between postalveolar and retroflex *s* in the transcriptions.
 
 ## License
 
